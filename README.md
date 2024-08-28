@@ -20,15 +20,17 @@ With a PhD in Civil Engineering and a diverse background in technology managemen
 * **Career Development**: Focused on enhancing my career as a Research & Data Analytics. More interested in roles that leverage my technical skills, leadership, and teamwork in facilitating decision-making for impactful solutions.
 
 ## My Services :white_check_mark:
-* **Academic Research**: I provide research and development to help you with your literature review, manage your project, or complete your dissertation.
-* **Data Analytics**: I offer data analytics services such as data cleaning, analysis, visualization, and reporting to turn complex data into actionable insights.
+* **Academic Research**: Provide research and development to help you with your literature review, manage your project, or complete your dissertation.
+* **Data Analysis**: Offer data analytics services such as data cleaning, analysis, visualization, and reporting to turn complex data into actionable insights.
+* **Dashboard Development**: Use data to design interactive dashboards to communicate insights.
 * **Training and Learning**: I am dedicated to helping others through mentoring, educational resources, guidance, and support.
 * **Website Development**: I provide a range of solutions to strengthen your brand identity through the development of your website for market visibility.
 
 ## Connect with Me
 * :link: [LinkedIn](https://www.linkedin.com/in/edwige-f-songong/)
 * :email: [Email](feulefacksongonge@gmail.com)
-* 📫 [Twitter](https://x.com/edwige_songong) 
+* 📫 [Twitter](https://x.com/edwige_songong)
+* :blue_book: [ResearchGate](https://www.researchgate.net/profile/Edwige-Songong)
 
 I'm looking forward to collaborating on projects that are related to my area of interest while also exploring others. Together we can do great things. Let's connect!
 
