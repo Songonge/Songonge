@@ -14,6 +14,8 @@ With a PhD in Civil Engineering and a diverse background in technology managemen
 * [Netflix Content Analysis](https://github.com/Songonge/Data-Analytics-Projects/tree/main/All%20Projects/Netflix%20Content%20Analysis): Assessing Netflix content from 2008 to 2021 to understand what types of content are mostly watched on Netflix and what content is available in different countries.
 * [Avocado Price Analysis](https://github.com/Songonge/Data-Analytics-Projects/tree/main/All%20Projects/Avocado%20Price%20Analysis): Checking what region in the USA has a high price of avocado and providing recommendations for the best period of avocado availability per year.
 * [Cyclistic Rides Analysis](https://github.com/Songonge/Data-Analytics-Projects/tree/main/All%20Projects/Cyclistic%20Rides%20Analysis): Understanding how casual riders and annual members use Cyclistic bikes differently to design a new marketing strategy to convert casual riders into annual members.
+* [Loan Analysis](https://github.com/Songonge/Data-Analytics-Projects/tree/main/All%20Projects/Loan%20Analysis): Using Generative BI in action with Amazon Q in QuickSight to provide loan analysis. It generates an executive summary from a loan analysis dashboard created using natural language.
+
 
 ## Professional Goals :dart:
 * **Continuous Learning**: Committed to ongoing professional development by staying up-to-date with the latest tech trends and advancing my Data Analytics skills.
