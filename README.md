@@ -7,7 +7,7 @@ With a PhD in Civil Engineering and a diverse background in technology managemen
 * **Technical Skills**: Microsoft Excel, SQL, Power BI, Tableau, Data Analysis & Visualization, Statistics, Amazon QuickSight, FEA in ABAQUS, Teaching, Research & Development, Project Management
 * **Soft Skills**: Presentation, Details-oriented, Excellent written and oral communication, Problem-solving, Decision-making, Critical thinking, Leadership, Teamwork, Time management
 
-## My Projects :books:
+## Data Analytics Projects :books:
 * [HR Analytics](https://github.com/Songonge/Data-Analytics-Projects/tree/main/All%20Projects/HR%20Analytics): Revealing patterns and insights hidden in complex datasets to enhance employee retention, employee satisfaction, and organizational efficiency.
 * [Sales Analysis](https://github.com/Songonge/Data-Analytics-Projects/tree/main/All%20Projects/Sales%20Analysis): Analyzing sales data to derive insights and proposing actionable recommendations on how to boost sales for least sold products. 
 * [Donation Analysis](https://github.com/Songonge/Data-Analytics-Projects/tree/main/All%20Projects/Donation%20Analysis): Evaluating donation patterns and donor behaviors to optimize future campaigns and maximize contributions.
@@ -15,6 +15,9 @@ With a PhD in Civil Engineering and a diverse background in technology managemen
 * [Avocado Price Analysis](https://github.com/Songonge/Data-Analytics-Projects/tree/main/All%20Projects/Avocado%20Price%20Analysis): Checking what region in the USA has a high price of avocado and providing recommendations for the best period of avocado availability per year.
 * [Cyclistic Rides Analysis](https://github.com/Songonge/Data-Analytics-Projects/tree/main/All%20Projects/Cyclistic%20Rides%20Analysis): Understanding how casual riders and annual members use Cyclistic bikes differently to design a new marketing strategy to convert casual riders into annual members.
 * [Loan Analysis](https://github.com/Songonge/Data-Analytics-Projects/tree/main/All%20Projects/Loan%20Analysis): Using Generative BI in action with Amazon Q in QuickSight to provide loan analysis. It generates an executive summary from a loan analysis dashboard created using natural language.
+
+## Research Projects :books:
+* [Publications](https://www.researchgate.net/profile/Edwige-Songong)
 
 
 ## Professional Goals :dart:
