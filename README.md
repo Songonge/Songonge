@@ -31,13 +31,13 @@ With a PhD in Civil Engineering and a diverse background in technology managemen
 * **Training and Learning**: I am dedicated to helping others through mentoring, educational resources, guidance, and support.
 * **Website Development**: I provide a range of solutions to strengthen your brand identity through the development of your website for market visibility.
 
-## Connect with Me
+## Connect with Me :mailbox:
 * :link: [LinkedIn](https://www.linkedin.com/in/edwige-f-songong/)
 * :email: [Email](feulefacksongonge@gmail.com)
-* 📫 [Twitter](https://x.com/edwige_songong)
+* :mag: [Twitter](https://x.com/edwige_songong)
 * :blue_book: [ResearchGate](https://www.researchgate.net/profile/Edwige-Songong)
 
-I'm looking forward to collaborating on projects that are related to my area of interest while also exploring others. Together we can do great things. Let's connect!
+I'm looking forward to collaborating on projects that are related to my area of interest while also exploring others. Together we can do great things. Let's connect! :earth_africa:
 
 
 
