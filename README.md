@@ -8,8 +8,8 @@ With a PhD in Civil Engineering and a diverse background in technology managemen
 * **Soft Skills**: Presentation, Details-oriented, Excellent written and oral communication, Problem-solving, Decision-making, Critical thinking, Leadership, Teamwork, Time management
 
 ## Data Analytics Projects :books:
-* [HR Analytics](https://github.com/Songonge/MeriSKILL/tree/main/HR%Analytics%Project): Revealing patterns and insights hidden in complex datasets to enhance employee retention, employee satisfaction, and organizational efficiency.
-* [Sales Analysis](https://github.com/Songonge/MeriSKILL/tree/main/Sales%20Analysis%Project): Analyzing sales data to derive insights and proposing actionable recommendations on how to boost sales for least sold products. 
+* [HR Analytics](https://github.com/Songonge/MeriSKILL/tree/main/HR%20Analytics%20Project): Revealing patterns and insights hidden in complex datasets to enhance employee retention, employee satisfaction, and organizational efficiency.
+* [Sales Analysis](https://github.com/Songonge/MeriSKILL/tree/main/Sales%20Analysis%20Project): Analyzing sales data to derive insights and proposing actionable recommendations on how to boost sales for least sold products. 
 * [Donation Analysis](https://github.com/Songonge/Data-Analytics-Projects/tree/main/All%20Projects/Donation%20Analysis): Evaluating donation patterns and donor behaviors to optimize future campaigns and maximize contributions.
 * [Netflix Content Analysis](https://github.com/Songonge/Data-Analytics-Projects/tree/main/All%20Projects/Netflix%20Content%20Analysis): Assessing Netflix content from 2008 to 2021 to understand what types of content are mostly watched on Netflix and what content is available in different countries.
 * [Avocado Price Analysis](https://github.com/Songonge/Data-Analytics-Projects/tree/main/All%20Projects/Avocado%20Price%20Analysis): Checking what region in the USA has a high price of avocado and providing recommendations for the best period of avocado availability per year.
