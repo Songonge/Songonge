@@ -21,7 +21,7 @@ With a PhD in Civil Engineering and a diverse background in technology managemen
 
 ## Professional Goals :dart:
 * **Continuous Learning**: Committed to ongoing professional development by staying up-to-date with the latest tech trends and advancing my Data Analytics skills.
-* **Career Development**: Focused on enhancing my career as a Researcher & Data Analytics. More interested in roles that leverage my technical skills, leadership, and teamwork in facilitating decision-making for impactful solutions.
+* **Career Development**: Focused on enhancing my career as a Researcher & Data Analyst. More interested in roles that leverage my technical skills, leadership, and teamwork in facilitating decision-making for impactful solutions.
 
 ## My Services :white_check_mark:
 * **Academic Research**: Provide research and development to help you with your literature review, manage your project, or complete your dissertation.
