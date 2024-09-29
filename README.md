@@ -1,4 +1,4 @@
-👋 Hi there, I'm Edwige Songong! I’m a Research and Data Analyst with a passion for turning data into actionable insights for better decision-making processes.
+👋 Hi there, I'm Edwige Songong! I’m a Researcher and Data Analyst with a passion for turning data into actionable insights for better decision-making processes.
 
 ## About Me
 With a PhD in Civil Engineering and a diverse background in technology management, mathematical sciences, and physics, I've spent years honing my ability to analyze complex data sets and translate them into actionable insights. My passion for data-driven insights is complemented by my proficiency in various software tools and programming languages. I thrive on solving complex challenges and making a positive impact through data-driven decisions. My goal is to apply my analytical skills to drive innovation, improve outcomes, and support strategic initiatives within organizations.
