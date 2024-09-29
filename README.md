@@ -4,7 +4,7 @@
 With a PhD in Civil Engineering and a diverse background in technology management, mathematical sciences, and physics, I've spent years honing my ability to analyze complex data sets and translate them into actionable insights. My passion for data-driven insights is complemented by my proficiency in various software tools and programming languages. I thrive on solving complex challenges and making a positive impact through data-driven decisions. My goal is to apply my analytical skills to drive innovation, improve outcomes, and support strategic initiatives within organizations.
 
 ## Skills :hammer_and_wrench:
-* **Technical Skills**: Microsoft Excel, SQL, Power BI, Tableau, Data Analysis & Visualization, Statistics, Amazon QuickSight, FEA in ABAQUS, Teaching, Research & Development, Project Management
+* **Technical Skills**: Microsoft Excel, SQL, Power BI, Tableau, Data Analysis & Visualization, Statistics, Amazon QuickSight, FEA in ABAQUS, Teaching, Mentoring, Research & Development, Project Management
 * **Soft Skills**: Presentation, Details-oriented, Excellent written and oral communication, Problem-solving, Decision-making, Critical thinking, Leadership, Teamwork, Time management
 
 ## Data Analytics Projects :books:
