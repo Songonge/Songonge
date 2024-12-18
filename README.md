@@ -1,13 +1,14 @@
-👋 Hi there, I'm Edwige Songong! I’m a Researcher and Data Analyst with a passion for turning data into actionable insights for better decision-making processes.
+👋 Hi there, I'm Edwige Songong! I’m a Researcher and Data Analyst passionate about turning data into actionable insights for better decision-making processes.
 
 ## About Me
-With a PhD in Civil Engineering and a diverse background in technology management, mathematical sciences, and physics, I've spent years honing my ability to analyze complex data sets and translate them into actionable insights. My passion for data-driven insights is complemented by my proficiency in various software tools and programming languages. I thrive on solving complex challenges and making a positive impact through data-driven decisions. My goal is to apply my analytical skills to drive innovation, improve outcomes, and support strategic initiatives within organizations.
+With a PhD in Civil Engineering and a diverse background in technology management, mathematical sciences, and physics, I've spent years honing my ability to analyze complex data sets and translate them into actionable insights. My proficiency in various software tools and programming languages complements my passion for data-driven insights. I thrive on solving complex challenges and making a positive impact through data-driven decisions. My goal is to apply my analytical skills to drive innovation, improve outcomes, and support strategic initiatives within organizations.
 
 ## Skills :hammer_and_wrench:
 * **Technical Skills**: Microsoft Excel, SQL, Power BI, Tableau, Data Analysis & Visualization, Statistics, Amazon QuickSight, FEA in ABAQUS, Teaching, Mentoring, Research & Development, Project Management
 * **Soft Skills**: Presentation, Details-oriented, Excellent written and oral communication, Problem-solving, Decision-making, Critical thinking, Leadership, Teamwork, Time management
 
 ## Data Analytics Projects :books:
+* [Technical Test for a Data Analyst Profile at DataBeez](https://github.com/Songonge/Hack2Hire_TestTech_DataScience_4): In this project, I collaborated with [EKLOU Kossi Dodji](https://github.com/ekd001) to explore, analyze, develop a credit scoring prediction model, and create an interactive dashboard to visualize results. The project goal was part of a recruitment process at DataBeez.
 * [Data Analyst Internship at Cognorise Infotech](https://github.com/Songonge/CognoRise-Infotech): During this internship, I worked on three projects involving Flight Delays and Cancellations, Netflix Content, and Spotify Songs.
 * [Data Analyst Internship at MeriSKILL](https://github.com/Songonge/MeriSKILL): During this internship, I worked on a project about HR Analytics to provide recommendations to enhance workforce management and improve employee retention. On the other hand, the Sales Analysis project helped me identify top-selling products, key trends, and months with major sales. Then, I provided recommendations to boost annual sales.
 * [Donation Analysis](https://github.com/Songonge/Data-Analytics-Projects/tree/main/All%20Projects/Donation%20Analysis): In this project, I evaluated donation patterns and donor behaviors to optimize future campaigns and maximize contributions.
