@@ -32,7 +32,7 @@ With a PhD in Civil Engineering and a diverse background in technology managemen
 * **Website Development**: I provide a range of solutions to strengthen your brand identity through the development of your website for market visibility.
 
 ## Connect with Me :mailbox:
-* :link: [LinkedIn](https://www.linkedin.com/in/edwige-f-songong/)
+* :link: [LinkedIn](https://www.linkedin.com/in/edwigesongong/)
 * :email: [Email](feulefacksongonge@gmail.com)
 * :mag: [Twitter](https://x.com/edwige_songong)
 * :blue_book: [ResearchGate](https://www.researchgate.net/profile/Edwige-Songong)
