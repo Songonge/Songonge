@@ -16,7 +16,6 @@ With a PhD in Civil Engineering and a diverse background in technology managemen
 * [Avocado Price Analysis](https://github.com/Songonge/Data-Analytics-Projects/tree/main/All%20Projects/Avocado%20Price%20Analysis): In this project, I checked what region in the USA has a high price of avocado and provided recommendations for the best period of avocado availability per year.
 * [Cyclistic Rides Analysis](https://github.com/Songonge/Data-Analytics-Projects/tree/main/All%20Projects/Cyclistic%20Rides%20Analysis): This project served to understand how casual riders and annual members use Cyclistic bikes differently and design a new marketing strategy to convert casual riders into annual members.
 * [Loan Analysis](https://github.com/Songonge/Data-Analytics-Projects/tree/main/All%20Projects/Loan%20Analysis): In this project, I used Generative BI in action with Amazon Q in QuickSight to carry out loan analysis. The project generates an executive summary from a loan analysis dashboard created using natural language.
-* This the [test](https://github.com/Songonge/test) repository
 
 ## Research Projects :books:
 * [Publications](https://www.researchgate.net/profile/Edwige-Songong)
