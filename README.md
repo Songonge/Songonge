@@ -27,11 +27,12 @@ With a PhD in Civil Engineering and a diverse background in technology managemen
 * **Career Development**: Focused on enhancing my career as a Researcher & Data Analyst. More interested in roles that leverage my technical skills, leadership, and teamwork in facilitating decision-making for impactful solutions.
 
 ## My Services :white_check_mark:
-* **Academic Research**: Provide research and development to help you with your literature review, manage your project, or complete your dissertation.
 * **Data Analysis**: Offer data analytics services such as data cleaning, analysis, visualization, and reporting to turn complex data into actionable insights.
+* **Academic Research**: Provide research and development to help you with your literature review, manage your project, or complete your dissertation.
 * **Dashboard Development**: Use data to design interactive dashboards to communicate insights.
 * **Training and Learning**: I am dedicated to helping others through mentoring, educational resources, guidance, and support.
 * **Website Development**: I provide a range of solutions to strengthen your brand identity through the development of your website for market visibility.
+* **GitHub Profile Optimization**: I help you optimize your GitHub profile and teach you how to host your projects on GitHub repositories.
 
 ## Connect with Me :mailbox:
 * :link: [LinkedIn](https://www.linkedin.com/in/edwigesongong/)
