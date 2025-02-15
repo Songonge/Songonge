@@ -8,14 +8,15 @@ With a PhD in Civil Engineering and a diverse background in technology managemen
 * **Soft Skills**: Presentation, Details-oriented, Excellent written and oral communication, Problem-solving, Decision-making, Critical thinking, Leadership, Teamwork, Time management
 
 ## Data Analytics Projects :books:
-* [Sales Analysis](https://github.com/Songonge/Excel-Projects/tree/main/Sales%20Analysis): This project analyzes sales performance, customer segmentation, and product trends for a Superstore business. 
+* [SQL Projects](https://github.com/Songonge/SQL-Projects): In this repository, you will find projects completed in PostgreSQL, SQL Server, and MySQL.
+* [Power BI Projects](https://github.com/Songonge/Power-BI-Projects): This repository hosts all projects completed in Power BI.
+* [Excel Projects](https://github.com/Songonge/Excel-Projects): In this repository, you will find all projects completed in Microsoft Excel.
+* [Looker Studio Projects](https://github.com/Songonge/Looker-Studio-Projects): This repository contains all projects completed in Google Looker Studio.
+* [AWS Projects](https://github.com/Songonge/AWS-Projects): This repository hosts all projects completed using AWS services such as Amazon QuickSight.
+* [Tableau Projects](https://github.com/Songonge/Tableau-Projects): In this repository, you will find all projects completed in Tableau.
 * [Technical Test for a Data Analyst Profile at DataBeez](https://github.com/Songonge/Hack2Hire_TestTech_DataScience_4): In this project, I collaborated with [EKLOU Kossi Dodji](https://github.com/ekd001) to explore, analyze, develop a credit scoring prediction model, and create an interactive dashboard to visualize results. The project goal was part of a recruitment process at DataBeez.
 * [Data Analyst Internship at Cognorise Infotech](https://github.com/Songonge/CognoRise-Infotech): During this internship, I worked on three projects involving Flight Delays and Cancellations, Netflix Content, and Spotify Songs.
 * [Data Analyst Internship at MeriSKILL](https://github.com/Songonge/MeriSKILL): During this internship, I worked on a project about HR Analytics to provide recommendations to enhance workforce management and improve employee retention. On the other hand, the Sales Analysis project helped me identify top-selling products, key trends, and months with major sales. Then, I provided recommendations to boost annual sales.
-* [Donation Analysis](https://github.com/Songonge/Data-Analytics-Projects/tree/main/All%20Projects/Donation%20Analysis): In this project, I evaluated donation patterns and donor behaviors to optimize future campaigns and maximize contributions.
-* [Avocado Price Analysis](https://github.com/Songonge/Data-Analytics-Projects/tree/main/All%20Projects/Avocado%20Price%20Analysis): In this project, I checked what region in the USA has a high price of avocado and provided recommendations for the best period of avocado availability per year.
-* [Cyclistic Rides Analysis](https://github.com/Songonge/Data-Analytics-Projects/tree/main/All%20Projects/Cyclistic%20Rides%20Analysis): This project served to understand how casual riders and annual members use Cyclistic bikes differently and design a new marketing strategy to convert casual riders into annual members.
-* [Loan Analysis](https://github.com/Songonge/Data-Analytics-Projects/tree/main/All%20Projects/Loan%20Analysis): In this project, I used Generative BI in action with Amazon Q in QuickSight to carry out loan analysis. The project generates an executive summary from a loan analysis dashboard created using natural language.
 
 ## Research Projects :books:
 * [Publications](https://www.researchgate.net/profile/Edwige-Songong)
