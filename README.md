@@ -1,5 +1,3 @@
-👋 Hi there, I'm Edwige Songong! I’m a Researcher and Data Analyst passionate about turning data into actionable insights for better decision-making processes.
-
 <h2 align="left">Hi 👋! Edwige Songong</h2>
 
 ###
@@ -20,10 +18,6 @@
     <img src="https://img.shields.io/static/v1?message=Website&logo=signal&label=ESAnalysis&color=403d39&logoColor=&labelColor=8ac926&style=flat" height="35" alt="signal logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
