@@ -54,11 +54,11 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
   * Google Workspace
   * LaTeX  
 
-* **Soft Skills**: Presentation, Details-oriented, Excellent written and oral communication, Problem-solving, Decision-making, Critical thinking, Leadership, Teamwork, Time management
+* **Soft Skills**:  
   * Communication & Public Speaking
   * Teaching & Mentorship
   * Leadership & Team Collaboration
-  * Problem-Solving
+  * Problem-Solving & Decision-making
   * Critical Thinking
   * Adaptability & Resilience
   * Project Management
@@ -83,20 +83,23 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 
 
 ## Professional Goals :dart:
-* **Continuous Learning**: Committed to ongoing professional development by staying up-to-date with the latest tech trends and advancing my Data Analytics skills.
-* **Career Development**: Focused on enhancing my career as a Researcher & Data Analyst. More interested in roles that leverage my technical skills, leadership, and teamwork in facilitating decision-making for impactful solutions.
+* Using data analytics to solve real-world problems and supporting strategic decision-making in education, research, and business.
+* Empowering underrepresented communities through mentorship, training programs, and inclusive data-driven solutions.
+* Building impactful tech solutions that bridge the gap between data, education, and social impact across global communities.
+* Leveraging my technical skills, leadership, and teamwork in facilitating decision-making for impactful solutions.
 
 ## My Services :white_check_mark:
-* **Data Analysis**: Offer data analytics services such as data cleaning, analysis, visualization, and reporting to turn complex data into actionable insights.
-* **Academic Research**: Provide research and development to help you with your literature review, manage your project, or complete your dissertation.
+* **Data Analysis**: Offers data analytics services such as data entry, data cleaning, analysis, visualization, and reporting to turn complex data into actionable insights.
 * **Dashboard Development**: Use data to design interactive dashboards to communicate insights.
-* **Training and Learning**: I am dedicated to helping others through mentoring, educational resources, guidance, and support.
-* **Website Development**: I provide a range of solutions to strengthen your brand identity through the development of your website for market visibility.
+* **Training and Mentoring**: Training in Excel, Power BI, and SQL. Dedicated to helping others through mentoring, providing educational resources, guidance, and support.
+* **Academic Research**: Provide research and development to help you with your literature review, manage your project, or complete your dissertation.
 * **GitHub Profile Optimization**: I help you optimize your GitHub profile and teach you how to host your projects on GitHub repositories.
+* **Website Development**: I provide a range of solutions to strengthen your brand identity through the development of your website for market visibility.
 
 ## Connect with Me :mailbox:
 * :link: [LinkedIn](https://www.linkedin.com/in/edwigesongong/)
 * :email: [Email](feulefacksongonge@gmail.com)
+* :open_file_folder: https://www.esanalysis.com/
 * :mag: [Twitter](https://x.com/edwige_songong)
 * :blue_book: [ResearchGate](https://www.researchgate.net/profile/Edwige-Songong)
 
