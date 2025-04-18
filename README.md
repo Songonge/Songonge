@@ -1,5 +1,37 @@
 👋 Hi there, I'm Edwige Songong! I’m a Researcher and Data Analyst passionate about turning data into actionable insights for better decision-making processes.
 
+<h2 align="left">Hi 👋! Edwige Songong</h2>
+
+###
+
+<p align="left">| Data Analyst & Mentor @ ES Analysis | Empowering businesses with Actionable insights from data | STEM Educator</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/edwigesongong/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=403d39&logoColor=white&labelColor=0077B5&style=flat" height="35" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Subscribe&logo=youtube&label=YouTube&color=403d39&logoColor=white&labelColor=FF0000&style=flat" height="35" alt="youtube logo"  />
+  <a href="contact@esanalysis.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Email&color=403d39&logoColor=white&labelColor=D14836&style=flat" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.esanalysis.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=signal&label=ESAnalysis&color=403d39&logoColor=&labelColor=8ac926&style=flat" height="35" alt="signal logo"  />
+  </a>
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+</div>
+
+###
+
 ## About Me
 With a PhD in Civil Engineering and a diverse background in technology management, mathematical sciences, and physics, I've spent years honing my ability to analyze complex data sets and translate them into actionable insights. My proficiency in various software tools and programming languages complements my passion for data-driven insights. I thrive on solving complex challenges and making a positive impact through data-driven decisions. My goal is to apply my analytical skills to drive innovation, improve outcomes, and support strategic initiatives within organizations.
 
