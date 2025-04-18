@@ -39,8 +39,33 @@ Over the years, I’ve contributed to projects that span mathematical modeling, 
 Driven by resilience, curiosity, and a desire to be a better version of myself, I continue to grow, share, and lead with purpose.
 
 ## Skills :hammer_and_wrench:
-* **Technical Skills**: Microsoft Excel, SQL, Power BI, Tableau, Data Analysis & Visualization, Statistics, Amazon QuickSight, FEA in ABAQUS, Teaching, Mentoring, Research & Development, Project Management
+* **Data Analytics & Visualization**:  
+  * Power BI 
+  * Excel (Pivot Tables, Power Query, Charts, Power Pivot)
+  * SQL (PostgreSQL, Microsoft SQL Server, SQLite, MySQL)
+  * Amazon QuickSight
+  * Looker Studio
+  * Tableau
+  * Python (for Data Analysis)  
+
+* **Web & Productivity Tools**:  
+  * Microsoft Office Suite
+  * Canva
+  * Google Workspace
+  * LaTeX  
+
 * **Soft Skills**: Presentation, Details-oriented, Excellent written and oral communication, Problem-solving, Decision-making, Critical thinking, Leadership, Teamwork, Time management
+  * Communication & Public Speaking
+  * Teaching & Mentorship
+  * Leadership & Team Collaboration
+  * Problem-Solving
+  * Critical Thinking
+  * Adaptability & Resilience
+  * Project Management
+  * Time Management
+  * Cultural Competency
+  * Attention to Detail
+  * Empathy & Emotional Intelligence
 
 ## Data Analytics Projects :books:
 * [SQL Projects](https://github.com/Songonge/SQL-Projects): In this repository, you will find projects completed in PostgreSQL, SQL Server, and MySQL.
