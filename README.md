@@ -28,8 +28,15 @@
 
 ###
 
+## Mission :dart:
+Empower individuals and organizations through data-driven solutions, lifelong learning, and purposeful action. I strive to create a meaningful impact by building systems that uplift communities and inspire future leaders. Through resilience, kindness, and innovation, I aim to live a fulfilled life and leave a legacy of growth, opportunity, and excellence.
+
 ## About Me
-With a PhD in Civil Engineering and a diverse background in technology management, mathematical sciences, and physics, I've spent years honing my ability to analyze complex data sets and translate them into actionable insights. My proficiency in various software tools and programming languages complements my passion for data-driven insights. I thrive on solving complex challenges and making a positive impact through data-driven decisions. My goal is to apply my analytical skills to drive innovation, improve outcomes, and support strategic initiatives within organizations.
+I’m a data-driven educator, researcher, and analyst passionate about using insights to drive impact, growth, and innovation. With a diverse academic background in STEM and hands-on experience in teaching, research, and analytics, I thrive at the intersection of knowledge, purpose, and problem-solving.
+
+Over the years, I’ve contributed to projects that span mathematical modeling, structural analysis, STEM education, and performance evaluation. Each one deepens my commitment to building systems that uplift communities and create opportunities for others. Whether I’m mentoring students, exploring new data tools, or developing strategies, my goal is always the same: to inspire, empower, and leave a lasting legacy of excellence.
+
+Driven by resilience, curiosity, and a desire to be a better version of myself, I continue to grow, share, and lead with purpose.
 
 ## Skills :hammer_and_wrench:
 * **Technical Skills**: Microsoft Excel, SQL, Power BI, Tableau, Data Analysis & Visualization, Statistics, Amazon QuickSight, FEA in ABAQUS, Teaching, Mentoring, Research & Development, Project Management
