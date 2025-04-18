@@ -31,7 +31,7 @@
 ## Mission :dart:
 Empower individuals and organizations through data-driven solutions, lifelong learning, and purposeful action. I strive to create a meaningful impact by building systems that uplift communities and inspire future leaders. Through resilience, kindness, and innovation, I aim to live a fulfilled life and leave a legacy of growth, opportunity, and excellence.
 
-## About Me
+## About Me :woman_technologist:
 I’m a data-driven educator, researcher, and analyst passionate about using insights to drive impact, growth, and innovation. With a diverse academic background in STEM and hands-on experience in teaching, research, and analytics, I thrive at the intersection of knowledge, purpose, and problem-solving.
 
 Over the years, I’ve contributed to projects that span mathematical modeling, structural analysis, STEM education, and performance evaluation. Each one deepens my commitment to building systems that uplift communities and create opportunities for others. Whether I’m mentoring students, exploring new data tools, or developing strategies, my goal is always the same: to inspire, empower, and leave a lasting legacy of excellence.
