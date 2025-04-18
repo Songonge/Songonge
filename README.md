@@ -23,6 +23,11 @@
 
 ###
 
+<div align="left">
+</div>
+
+###
+
 ## Mission :dart:
 Empower individuals and organizations through data-driven solutions, lifelong learning, and purposeful action. I strive to create a meaningful impact by building systems that uplift communities and inspire future leaders. Through resilience, kindness, and innovation, I aim to live a fulfilled life and leave a legacy of growth, opportunity, and excellence.
 
