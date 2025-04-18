@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Email&color=403d39&logoColor=white&labelColor=D14836&style=flat" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.esanalysis.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=signal&label=ESAnalysis&color=403d39&logoColor=&labelColor=8ac926&style=flat" height="25" alt=""  />
+    <img src="https://img.shields.io/static/v1?message=Website&logo=signal&label=ESAnalysis&color=403d39&logoColor=&labelColor=8ac926&style=flat" height="25"  />
   </a>
 </div>
 
