@@ -8,14 +8,16 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/edwigesongong/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=403d39&logoColor=white&labelColor=0077B5&style=flat" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=403d39&logoColor=white&labelColor=0077B5&style=flat" height="31" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Subscribe&logo=youtube&label=YouTube&color=403d39&logoColor=white&labelColor=FF0000&style=flat" height="35" alt="youtube logo"  />
-  <a href="contact@esanalysis.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Email&color=403d39&logoColor=white&labelColor=D14836&style=flat" height="35" alt="gmail logo"  />
+  <a href="https://www.youtube.com/@esanalysis" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Subscribe&logo=youtube&label=YouTube&color=403d39&logoColor=white&labelColor=FF0000&style=flat" height="31" alt="youtube logo"  />
+  </a>
+  <a href="mailto:contact@esanalysis.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Email&color=403d39&logoColor=white&labelColor=D14836&style=flat" height="31" alt="gmail logo"  />
   </a>
   <a href="https://www.esanalysis.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=signal&label=ESAnalysis&color=403d39&logoColor=&labelColor=8ac926&style=flat" height="35" alt="signal logo"  />
+    <img src="https://img.shields.io/static/v1?message=Website&logo=signal&label=ESAnalysis&color=403d39&logoColor=&labelColor=8ac926&style=flat" height="31" alt="signal logo"  />
   </a>
 </div>
 
