@@ -77,6 +77,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 * [Technical Test for a Data Analyst Profile at DataBeez](https://github.com/Songonge/Hack2Hire_TestTech_DataScience_4): In this project, I collaborated with [EKLOU Kossi Dodji](https://github.com/ekd001) to explore, analyze, develop a credit scoring prediction model, and create an interactive dashboard to visualize results. The project goal was part of a recruitment process at DataBeez.
 * [Data Analyst Internship at Cognorise Infotech](https://github.com/Songonge/CognoRise-Infotech): During this internship, I worked on three projects involving Flight Delays and Cancellations, Netflix Content, and Spotify Songs.
 * [Data Analyst Internship at MeriSKILL](https://github.com/Songonge/MeriSKILL): During this internship, I worked on a project about HR Analytics to provide recommendations to enhance workforce management and improve employee retention. On the other hand, the Sales Analysis project helped me identify top-selling products, key trends, and months with major sales. Then, I provided recommendations to boost annual sales.
+* [Data Analytics Tips](https://github.com/Songonge/Data-Analytics-Tips): Here, I share tips related to Data Analytics. These include tips about data analytics tools, the career, and what works best for me.
 
 ## Research Projects :books:
 * [Publications](https://www.researchgate.net/profile/Edwige-Songong)
