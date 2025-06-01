@@ -99,7 +99,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 
 ## Connect with Me :mailbox:
 * :link: [LinkedIn](https://www.linkedin.com/in/edwigesongong/)
-* :email: [Email](mailto.feulefacksongonge@gmail.com)
+* :email: [Email](mailto:feulefacksongonge@gmail.com)
 * :open_file_folder: https://www.esanalysis.com/
 * :mag: [Twitter](https://x.com/edwige_songong)
 * :blue_book: [ResearchGate](https://www.researchgate.net/profile/Edwige-Songong)
