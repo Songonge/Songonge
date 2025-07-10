@@ -42,7 +42,7 @@ Over the years, I’ve contributed to projects that span data cleaning, analysis
 Driven by resilience, curiosity, and a desire to be a better version of myself, I continue to grow, share, and lead with purpose.
 
 ## Core Skills & Competencies :hammer_and_wrench:
-* **Business Intelligence & Data Visualization**:    
+* **Business Intelligence & Data Visualization**:
   * Power BI 
   * Excel
   * Looker Studio
@@ -53,7 +53,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
   * KPI Monitoring
   * Forecasting  
 
-* **Data Analysis**:  
+* **Data Analysis**:
   * Advanced Excel (Pivot Tables, VLOOKUP, IF formulas)
   * Descriptive Statistics
   * Python  
