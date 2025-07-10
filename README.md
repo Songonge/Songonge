@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">| Data Analyst & Mentor @ ES Analysis | Empowering businesses with Actionable insights from data | STEM Educator</p>
+<p align="left"> Data Analyst| Data Analytics Instructor | Empowering businesses with Actionable insights from data | STEM Educator </p>
 
 ###
 
@@ -32,16 +32,68 @@
 Empower individuals and organizations through data-driven solutions, lifelong learning, and purposeful action. I strive to create a meaningful impact by building systems that uplift communities and inspire future leaders. Through resilience, kindness, and innovation, I aim to live a fulfilled life and leave a legacy of growth, opportunity, and excellence.
 
 ## About Me :woman_technologist:
-I’m a data-driven educator, researcher, and analyst passionate about using insights to drive impact, growth, and innovation. With a diverse academic background in STEM and hands-on experience in teaching, research, and analytics, I thrive at the intersection of knowledge, purpose, and problem-solving.
+I’m a data analyst, educator, and researcher passionate about using insights to drive impact, growth, and innovation. With a diverse academic background in STEM and hands-on experience in teaching, research, and analytics, I thrive at the intersection of knowledge, purpose, and problem-solving.
 
-Over the years, I’ve contributed to projects that span mathematical modeling, structural analysis, STEM education, and performance evaluation. Each one deepens my commitment to building systems that uplift communities and create opportunities for others. Whether I’m mentoring students, exploring new data tools, or developing strategies, my goal is always the same: to inspire, empower, and leave a lasting legacy of excellence.
+Over the years, I’ve contributed to projects that span data cleaning, analysis, and visualization. I have also taught several course such as Mathematics and Physics at university level. Each one deepened my commitment to building systems that uplift communities and create opportunities for others. Whether I’m mentoring or advising students, exploring new data tools, or developing strategies, my goal is always the same: to inspire, empower, and leave a lasting legacy of excellence.
 
 Driven by resilience, curiosity, and a desire to be a better version of myself, I continue to grow, share, and lead with purpose.
 
-## Skills :hammer_and_wrench:
-* **Data Analytics & Visualization**:  
+## Core Skills & Competencies :hammer_and_wrench:
+* **Business Intelligence & Data Visualization**:    
   * Power BI 
-  * Excel (Pivot Tables, Power Query, Charts, Power Pivot)
+  * Excel
+  * Looker Studio
+  * Tableau
+  * Data Storytelling
+  * Dashboard Development
+  * Business Analytics
+  * KPI Monitoring
+  * Forecasting  
+
+* **Data Analysis**:  
+  * Advanced Excel (Pivot Tables, VLOOKUP, IF formulas)
+  * Descriptive Statistics
+  * Python
+
+* **Big Data & Cloud Technologies**:  
+  * SQL (PostgreSQL, Microsoft SQL Server, MySQL)
+  * ETL
+  * Data Warehousing
+  * Data Governance & Security
+  * BigQuery
+  * Data Validation
+  * AWS
+
+ * **Learning & Coaching**:  
+   * Data Analyst Instructor
+   * Career Coaching
+   * Curriculum Development
+   * Mentorship
+   * Adult Learning
+   * Technical Facilitation
+   * Project-Based Learning
+  
+* **Collaboration & Leadership**:
+  * Cross-functional Collaboration
+  * Stakeholder Engagement
+  * Mentorship
+  * Critical Thinking
+  * Problem-Solving
+  * Strategic Decision-Making
+  * Excellent Written and Verbal Communication
+  * Teamwork
+  * Attention to Detail
+  * Time Management  
+
+* **Workspace Tools**:
+  * Microsoft Office Suite
+  * Google Workspace
+  * Canva
+  * AI and automation tools
+  * GitHub
+  * ClickUp
+  * Jira 
+   
   * SQL (PostgreSQL, Microsoft SQL Server, SQLite, MySQL)
   * Amazon QuickSight
   * Looker Studio
@@ -54,18 +106,11 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
   * Google Workspace
   * LaTeX  
 
-* **Soft Skills**:  
-  * Communication & Public Speaking
-  * Teaching & Mentorship
-  * Leadership & Team Collaboration
-  * Problem-Solving & Decision-making
-  * Critical Thinking
-  * Adaptability & Resilience
-  * Project Management
-  * Time Management
-  * Cultural Competency
-  * Attention to Detail
-  * Empathy & Emotional Intelligence
+* **Teaching Tools**:  
+  * Canvas
+  * LMS
+  * Blackboard
+  * Zoom & Microsoft Teams (virtual teaching) 
 
 ## Data Analytics Projects :books:
 * [SQL Projects](https://github.com/Songonge/SQL-Projects): In this repository, you will find projects completed in PostgreSQL, SQL Server, and MySQL.
@@ -77,7 +122,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 * [Technical Test for a Data Analyst Profile at DataBeez](https://github.com/Songonge/Hack2Hire_TestTech_DataScience_4): In this project, I collaborated with [EKLOU Kossi Dodji](https://github.com/ekd001) to explore, analyze, develop a credit scoring prediction model, and create an interactive dashboard to visualize results. The project goal was part of a recruitment process at DataBeez.
 * [Data Analyst Internship at Cognorise Infotech](https://github.com/Songonge/CognoRise-Infotech): During this internship, I worked on three projects involving Flight Delays and Cancellations, Netflix Content, and Spotify Songs.
 * [Data Analyst Internship at MeriSKILL](https://github.com/Songonge/MeriSKILL): During this internship, I worked on a project about HR Analytics to provide recommendations to enhance workforce management and improve employee retention. On the other hand, the Sales Analysis project helped me identify top-selling products, key trends, and months with major sales. Then, I provided recommendations to boost annual sales.
-* [Data Analytics Tips](https://github.com/Songonge/Data-Analytics-Tips): Here, I share tips related to Data Analytics. These include tips about data analytics tools, the career, and what works best for me.
+* [Data Analytics Tips](https://github.com/Songonge/Data-Analytics-Tips): Here, I share tips related to Data Analytics for anyone new to the field. These include tips about data analytics tools, the career, and what works best for me.
 
 ## Research Projects :books:
 * [Publications](https://www.researchgate.net/profile/Edwige-Songong)
@@ -93,8 +138,8 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 * **Data Analysis**: Offers data analytics services such as data entry, data cleaning, analysis, visualization, and reporting to turn complex data into actionable insights.
 * **Dashboard Development**: Use data to design interactive dashboards to communicate insights.
 * **Training and Mentoring**: Training in Excel, Power BI, and SQL. Dedicated to helping others through mentoring, providing educational resources, guidance, and support.
-* **Academic Research**: Provide research and development to help you with your literature review, manage your project, or complete your dissertation.
-* **GitHub Profile Optimization**: I help you optimize your GitHub profile and teach you how to host your projects on GitHub repositories.
+* **Academic Research and Publication**: Provide research and development services to help you with your literature review, manage your project, complete your dissertation, or collaborate on publications.
+* **GitHub Profile Optimization**: I help you optimize your GitHub profile and teach you how to host and document your projects on GitHub repositories.
 * **Website Development**: I provide a range of solutions to strengthen your brand identity through the development of your website for market visibility.
 
 ## Connect with Me :mailbox:
