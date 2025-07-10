@@ -6,7 +6,7 @@
 
 ###
 
-<div align="left">   LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat"
+<div align="left"> 
   <a href="https://www.linkedin.com/in/edwigesongong/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=403d39&logoColor=white&labelColor=0077B5&style=flat" height="40" alt="linkedin logo"/>
   </a>
