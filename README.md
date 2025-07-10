@@ -143,6 +143,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 * **Training and Mentoring**: Training in Excel, Power BI, and SQL. Dedicated to helping others through mentoring, providing educational resources, guidance, and support.
 * **Academic Research and Publication**: Provide research and development services to help you with your literature review, manage your project, complete your dissertation, or collaborate on publications.
 * **GitHub Profile Optimization**: I help you optimize your GitHub profile and teach you how to host and document your projects on GitHub repositories.
+* **Teaching**: I teach Mathematics and Physics at the university level.
 * **Website Development**: I provide a range of solutions to strengthen your brand identity through the development of your website for market visibility.
 
 ## Connect with Me :mailbox:
