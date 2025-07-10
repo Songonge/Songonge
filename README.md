@@ -56,7 +56,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 * **Data Analysis**:  
   * Advanced Excel (Pivot Tables, VLOOKUP, IF formulas)
   * Descriptive Statistics
-  * Python
+  * Python  
 
 * **Big Data & Cloud Technologies**:  
   * SQL (PostgreSQL, Microsoft SQL Server, MySQL)
@@ -65,7 +65,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
   * Data Governance & Security
   * BigQuery
   * Data Validation
-  * AWS
+  * AWS  
 
  * **Learning & Coaching**:  
    * Data Analyst Instructor
@@ -74,7 +74,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
    * Mentorship
    * Adult Learning
    * Technical Facilitation
-   * Project-Based Learning
+   * Project-Based Learning  
   
 * **Collaboration & Leadership**:
   * Cross-functional Collaboration
@@ -95,19 +95,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
   * AI and automation tools
   * GitHub
   * ClickUp
-  * Jira 
-   
-  * SQL (PostgreSQL, Microsoft SQL Server, SQLite, MySQL)
-  * Amazon QuickSight
-  * Looker Studio
-  * Tableau
-  * Python (for Data Analysis)  
-
-* **Web & Productivity Tools**:  
-  * Microsoft Office Suite
-  * Canva
-  * Google Workspace
-  * LaTeX  
+  * Jira  
 
 * **Teaching Tools**:  
   * Canvas
