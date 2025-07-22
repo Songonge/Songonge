@@ -68,7 +68,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
   * AWS  
 
  * **Learning & Coaching**:  
-   * Data Analyst Instructor
+   * Data Analytics Instructor
    * Career Coaching
    * Curriculum Development
    * Mentorship
