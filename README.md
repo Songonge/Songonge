@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! Edwige Songong here!</h2> 
+<h2 align="left">Hi 👋! Edwige Songong here, your experienced Data Analyst</h2> 
 
 ###
 
-<p align="left"> Data Analyst | Data Analytics Instructor | Empowering businesses with Actionable insights from data | STEM Educator </p>
+<p align="left"> Data Analyst | Data Analytics Instructor | Empowering businesses with Actionable insights from data | Higher Ed Educator </p>
 
 ###
 
