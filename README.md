@@ -32,12 +32,12 @@
 ###
 
 ## Mission :dart:
-Empower individuals and organizations through data-driven solutions, lifelong learning, and purposeful action. I strive to create a meaningful impact by building systems that uplift communities and inspire future leaders. Through resilience, kindness, and innovation, I aim to live a fulfilled life and leave a legacy of growth, opportunity, and excellence.
+Empower individuals and organizations through data-driven solutions, lifelong learning, and purposeful action. I strive to create a meaningful impact by building systems that uplift communities and inspire future leaders. Through resilience, kindness, and innovation, I strive to lead a fulfilling life and leave a lasting legacy of growth, opportunity, and excellence.
 
 ## About Me :woman_technologist:
 I’m a data analyst, educator, and researcher passionate about using insights to drive impact, growth, and innovation. With a diverse academic background in STEM and hands-on experience in teaching, research, and analytics, I thrive at the intersection of knowledge, purpose, and problem-solving.
 
-Over the years, I’ve contributed to projects that span data cleaning, analysis, and visualization. I have also taught several course such as Mathematics and Physics at university level. Each one deepened my commitment to building systems that uplift communities and create opportunities for others. Whether I’m mentoring or advising students, exploring new data tools, or developing strategies, my goal is always the same: to inspire, empower, and leave a lasting legacy of excellence.
+Over the years, I’ve contributed to projects that span data cleaning, analysis, and visualization. I have also taught several courses, such as Mathematics and Physics, at the university level. Each one deepened my commitment to building systems that uplift communities and create opportunities for others. Whether I’m mentoring or advising students, exploring new data tools, or developing strategies, my goal is always the same: to inspire, empower, and leave a lasting legacy of excellence.
 
 Driven by resilience, curiosity, and a desire to be a better version of myself, I continue to grow, share, and lead with purpose.
 
@@ -120,7 +120,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 
 
 ## Professional Goals :dart:
-* Using data analytics to solve real-world problems and supporting strategic decision-making in education, research, and business.
+* Using data analytics to solve real-world problems and support strategic decision-making in education, research, and business.
 * Empowering underrepresented communities through mentorship, training programs, and inclusive data-driven solutions.
 * Building impactful tech solutions that bridge the gap between data, education, and social impact across global communities.
 * Leveraging my technical skills, leadership, and teamwork in facilitating decision-making for impactful solutions.
@@ -141,7 +141,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 * :mag: [Twitter](https://x.com/edwige_songong)
 * :blue_book: [ResearchGate](https://www.researchgate.net/profile/Edwige-Songong)
 
-I'm looking forward to collaborating on projects that are related to my area of interest while also exploring others. Together we can do great things. Let's connect! :earth_africa:
+I'm looking forward to collaborating on projects related to my area of interest, while also exploring others. Together we can do great things. Let's connect! :earth_africa:
 
 
 
