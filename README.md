@@ -7,7 +7,7 @@
 ###
 
 <div align="left"> 
-  <a href="https://www.linkedin.com/in/edwigesongong/">
+  <a href="https://www.linkedin.com/in/edwigesongong/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=c77dff&logoColor=white&labelColor=0077B5&style=flat" height="40" alt="linkedin logo"/>
   </a>
   <a href="https://www.youtube.com/@esanalysis" target="_blank">
@@ -41,8 +41,8 @@ Over the years, I’ve contributed to projects that span data cleaning, analysis
 
 Driven by resilience, curiosity, and a desire to be a better version of myself, I continue to grow, share, and lead with purpose.
 
-## Core Skills | Competencies | Tools :hammer_and_wrench:
-
+## Core Skills & Competencies :hammer_and_wrench:
+<!--
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -60,7 +60,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
+-->
 * **Business Intelligence & Data Visualization**:
   * Power BI 
   * Excel
