@@ -146,7 +146,7 @@ I'm looking forward to collaborating on projects related to my area of interest,
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Songonge&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Songonge&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
