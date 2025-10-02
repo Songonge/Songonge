@@ -8,19 +8,19 @@
 
 <div align="left"> 
   <a href="https://www.linkedin.com/in/edwigesongong/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=ffe6a7&logoColor=white&labelColor=0077B5&style=flat" height="35" alt="linkedin logo"/>
+    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=ffe6a7&logoColor=white&labelColor=0077B5&style=flat" height="40" alt="linkedin logo"/>
   </a>
   <a href="https://www.youtube.com/@esanalysis" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Subscribe&logo=youtube&label=YouTube&color=ffe6a7&logoColor=white&labelColor=FF0000&style=flat" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Subscribe&logo=youtube&label=YouTube&color=ffe6a7&logoColor=white&labelColor=FF0000&style=flat" height="40" alt="youtube logo"  />
   </a>
   <a href="https://www.esanalysis.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&label=ESAnalysis&color=ffe6a7&logoColor=&labelColor=8ac926&style=flat" height="35"  />
+    <img src="https://img.shields.io/static/v1?message=Website&label=ESAnalysis&color=ffe6a7&logoColor=&labelColor=8ac926&style=flat" height="40"  />
   </a>
   <a href="mailto:feulefacksongonge@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Email&color=ffe6a7&logoColor=white&labelColor=D14836&style=flat" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Email&color=ffe6a7&logoColor=white&labelColor=D14836&style=flat" height="40" alt="gmail logo"  />
   </a>
   <a href="https://calendly.com/edwigesongong/30min" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=BookASession&label=Calendly&color=ffe6a7&logoColor=&labelColor=006BFF&style=flat" height="35"  />
+    <img src="https://img.shields.io/static/v1?message=BookASession&label=Calendly&color=ffe6a7&logoColor=&labelColor=006BFF&style=flat" height="40"  />
   </a>
 </div>
 
@@ -37,7 +37,7 @@ Empower individuals and organizations through data-driven solutions, lifelong le
 ## About Me :woman_technologist:
 I’m a data analyst, educator, and researcher passionate about using insights to drive impact, growth, and innovation. With a diverse academic background in STEM and hands-on experience in teaching, research, and analytics, I thrive at the intersection of knowledge, purpose, and problem-solving.
 
-Over the years, I’ve contributed to projects that span data cleaning, analysis, and visualization. I have also taught several courses, such as Mathematics and Physics, at the university level. Each one deepened my commitment to building systems that uplift communities and create opportunities for others. Whether I’m mentoring or advising students, exploring new data tools, or developing strategies, my goal is always the same: to inspire, empower, and leave a lasting legacy of excellence.
+Over the years, I’ve contributed to projects that span data cleaning, analysis, and visualization. I have also taught several university-level courses, including Mathematics (Calculus, Algebra, Trigonometry, Statistics, and Probability) and Physics (General Physics, Statics, and Structural Analysis). Each one deepened my commitment to building systems that uplift communities and create opportunities for others, while empowering the next generation. Whether I’m mentoring or advising students, exploring new data tools, or developing strategies, my goal remains the same: to inspire, empower, and leave a lasting legacy of excellence.
 
 Driven by resilience, curiosity, and a desire to be a better version of myself, I continue to grow, share, and lead with purpose.
 
