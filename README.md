@@ -7,7 +7,7 @@
 ###
 
 <div align="left"> 
-  <a href="https://www.linkedin.com/in/edwigesongong/" target="_blank">
+  <a href="https://www.linkedin.com/in/edwigesongong/">
     <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=c77dff&logoColor=white&labelColor=0077B5&style=flat" height="40" alt="linkedin logo"/>
   </a>
   <a href="https://www.youtube.com/@esanalysis" target="_blank">
