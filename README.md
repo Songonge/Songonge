@@ -168,7 +168,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 
 I'm looking forward to collaborating on projects related to my area of interest, while also exploring others. Together we can do great things. Let's connect! :earth_africa:
 
-## My Stats 🔥
+## My GitHub Stats 🔥
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Songonge&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
