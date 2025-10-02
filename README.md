@@ -8,19 +8,19 @@
 
 <div align="left"> 
   <a href="https://www.linkedin.com/in/edwigesongong/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=edc4b3&logoColor=white&labelColor=0077B5&style=flat" height="40" alt="linkedin logo"/>
+    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=c77dff&logoColor=white&labelColor=0077B5&style=flat" height="40" alt="linkedin logo"/>
   </a>
   <a href="https://www.youtube.com/@esanalysis" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Subscribe&logo=youtube&label=YouTube&color=edc4b3&logoColor=white&labelColor=FF0000&style=flat" height="40" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Subscribe&logo=youtube&label=YouTube&color=c77dff&logoColor=white&labelColor=FF0000&style=flat" height="40" alt="youtube logo"  />
   </a>
   <a href="https://www.esanalysis.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&label=ESAnalysis&color=edc4b3&logoColor=&labelColor=8ac926&style=flat" height="40"  />
+    <img src="https://img.shields.io/static/v1?message=Website&label=ESAnalysis&color=c77dff&logoColor=&labelColor=8ac926&style=flat" height="40"  />
   </a>
   <a href="mailto:feulefacksongonge@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Email&color=edc4b3&logoColor=white&labelColor=D14836&style=flat" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Email&color=c77dff&logoColor=white&labelColor=D14836&style=flat" height="40" alt="gmail logo"  />
   </a>
   <a href="https://calendly.com/edwigesongong/30min" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=BookASession&label=Calendly&color=edc4b3&logoColor=&labelColor=006BFF&style=flat" height="40"  />
+    <img src="https://img.shields.io/static/v1?message=BookASession&label=Calendly&color=c77dff&logoColor=&labelColor=006BFF&style=flat" height="40"  />
   </a>
 </div>
 
