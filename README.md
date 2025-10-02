@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Email&color=c77dff&logoColor=white&labelColor=D14836&style=flat" height="40" alt="gmail logo"  />
   </a>
   <a href="https://calendly.com/edwigesongong/30min" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=BookASession&label=Calendly&color=c77dff&logoColor=&labelColor=006BFF&style=flat" height="40"  />
+    <img src="https://img.shields.io/static/v1?message=BookASession&logo=calendly&label=Calendly&color=c77dff&logoColor=&labelColor=006BFF&style=flat" height="40"  />
   </a>
 </div>
 
