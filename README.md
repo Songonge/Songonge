@@ -8,7 +8,7 @@
 
 <div align="left"> 
   <a href="https://www.linkedin.com/in/edwigesongong/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=c77dff&logoColor=white&labelColor=0077B5&style=flat" height="40" alt="linkedin logo"/>
+    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=c77dff&logoColor=white&labelColor=0077B5&style=flat" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@esanalysis" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Subscribe&logo=youtube&label=YouTube&color=c77dff&logoColor=white&labelColor=FF0000&style=flat" height="40" alt="youtube logo"  />
