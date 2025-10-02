@@ -103,7 +103,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
   * Blackboard
   * Zoom & Microsoft Teams (virtual teaching) 
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -172,9 +172,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 
 I'm looking forward to collaborating on projects related to my area of interest, while also exploring others. Together we can do great things. Let's connect! :earth_africa:
 
-<h2 align="left">My Stats 🔥</h2>
-###
-
+## My Stats 🔥
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Songonge&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
