@@ -103,6 +103,35 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
   * Blackboard
   * Zoom & Microsoft Teams (virtual teaching) 
 
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+</div>
+
+###
+
+
 ## Data Analytics Projects :books:
 * [SQL Projects](https://github.com/Songonge/SQL-Projects): In this repository, you will find projects completed in PostgreSQL, SQL Server, and MySQL.
 * [Power BI Projects](https://github.com/Songonge/Power-BI-Projects): This repository hosts all projects completed in Power BI.
@@ -143,6 +172,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 
 I'm looking forward to collaborating on projects related to my area of interest, while also exploring others. Together we can do great things. Let's connect! :earth_africa:
 
+<h2 align="left">My Stats 🔥</h2>
 ###
 
 <div align="center">
