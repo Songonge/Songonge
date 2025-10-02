@@ -122,6 +122,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
   * Blackboard
   * Zoom & Microsoft Teams (virtual teaching) 
 
+<!--
 <h2 align="left">🛠 Language and tools</h2>
 
 ###
@@ -145,7 +146,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 </div>
 
 ###
-
+-->
 
 ## Data Analytics Projects :books:
 * [SQL Projects](https://github.com/Songonge/SQL-Projects): In this repository, you will find projects completed in PostgreSQL, SQL Server, and MySQL.
@@ -195,6 +196,5 @@ I'm looking forward to collaborating on projects related to my area of interest,
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Songonge&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
 
