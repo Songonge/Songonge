@@ -143,9 +143,12 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 
 I'm looking forward to collaborating on projects related to my area of interest, while also exploring others. Together we can do great things. Let's connect! :earth_africa:
 
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Songonge&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 
-<!--
-**Songonge/Songonge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
