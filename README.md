@@ -149,6 +149,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
 -->
 
 ## Data Analytics Projects :books:
+* [This is test](https://github.com/Songonge/SQL-Projects): 
 * [SQL Projects](https://github.com/Songonge/SQL-Projects): In this repository, you will find projects completed in PostgreSQL, SQL Server, and MySQL.
 * [Power BI Projects](https://github.com/Songonge/Power-BI-Projects): This repository hosts all projects completed in Power BI.
 * [Excel Projects](https://github.com/Songonge/Excel-Projects): In this repository, you will find all projects completed in Microsoft Excel.
