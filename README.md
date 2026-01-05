@@ -122,7 +122,7 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
   * Blackboard
   * Zoom & Microsoft Teams (virtual teaching) 
 
-## Certification :trophy: :mortar_board:
+## Certification :trophy: 
 * Microsoft Certified: Power BI Data Analyst: [Link](https://learn.microsoft.com/api/credentials/share/en-us/EdwigeSongong-0123/A7925FDD99B96A28?sharingId=94BC4DFA5B2DF752)
 <!--
 <h2 align="left">🛠 Language and tools</h2>
