@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Edwige Songong here, your experienced Data Analyst</h2> 
+<h2 align="left">Hi 👋! Edwige Songong here, your Microsoft Certified Data Analyst</h2> 
 
 ###
 
@@ -37,7 +37,7 @@ Empower individuals and organizations through data-driven solutions, lifelong le
 ## About Me :woman_technologist:
 I’m a data analyst, educator, and researcher passionate about using insights to drive impact, growth, and innovation. With a diverse academic background in STEM and hands-on experience in teaching, research, and analytics, I thrive at the intersection of knowledge, purpose, and problem-solving.
 
-Over the years, I’ve contributed to projects that span data cleaning, analysis, and visualization. I have also taught several university-level courses, including Mathematics (Calculus, Algebra, Trigonometry, Statistics, and Probability) and Physics (General Physics, Statics, and Structural Analysis). Each one deepened my commitment to building systems that uplift communities and create opportunities for others, while empowering the next generation. Whether I’m mentoring or advising students, exploring new data tools, or developing strategies, my goal remains the same: to inspire, empower, and leave a lasting legacy of excellence.
+Over the years, I’ve contributed to projects that span data cleaning, analysis, and visualization. I have also taught several university-level courses, including Mathematics (Business Mathematics, Calculus, Algebra, Trigonometry, Statistics, and Probability) and Physics (General Physics, Mechanics, Statics, and Structural Analysis). Each one deepened my commitment to building systems that uplift communities and create opportunities for others, while empowering the next generation. Whether I’m mentoring or advising students, exploring new data tools, or developing strategies, my goal remains the same: to inspire, empower, and leave a lasting legacy of excellence.
 
 Driven by resilience, curiosity, and a desire to be a better version of myself, I continue to grow, share, and lead with purpose.
 
@@ -122,6 +122,8 @@ Driven by resilience, curiosity, and a desire to be a better version of myself, 
   * Blackboard
   * Zoom & Microsoft Teams (virtual teaching) 
 
+## Certification :trophy: :mortar_board:
+* Microsoft Certified: Power BI Data Analyst: [Link](https://learn.microsoft.com/api/credentials/share/en-us/EdwigeSongong-0123/A7925FDD99B96A28?sharingId=94BC4DFA5B2DF752)
 <!--
 <h2 align="left">🛠 Language and tools</h2>
 
